@@ -1,1 +1,1 @@
-fstab hostname hosts issue motd.tail passwd shadow mtab etc
+fstab hostname hosts issue motd.tail passwd group shadow mtab etc
