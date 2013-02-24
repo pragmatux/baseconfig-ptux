@@ -1,14 +1,6 @@
-This work was packaged for Debian by:
-
-    Ryan Kuester <rkuester@insymbols.com> on Fri, 25 Nov 2011 18:58:19 +0000
-
-Upstream Author(s):
-
-    Ryan Kuester <rkuester@insymbols.com>
-
 Copyright:
 
-    Copyright (C) 2011 Ryan Kuester <rkuester@insymbols.com>
+    Copyright (C) 2013 Ryan Kuester <rkuester@insymbols.com>
 
 License:
 
@@ -27,9 +19,3 @@ License:
 
 On Debian systems, the complete text of the GNU General
 Public License version 3 can be found in "/usr/share/common-licenses/GPL-3".
-
-The Debian packaging is:
-
-    Copyright (C) 2011 Ryan Kuester <rkuester@insymbols.com>
-
-and is licensed under the GPL version 3, see above.
