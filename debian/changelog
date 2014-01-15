@@ -1,12 +1,11 @@
-baseconfig-ptux (1.3) unstable; urgency=low
+baseconfig-ptux (0) UNRELEASED; urgency=low
 
-  * Add a base /etc/group file
-  * passwd: update to match that of Debian wheezy
+  NOTE this changelog is generated from git history when the
+  source package is built. Any change made to this file will be
+  overwritten. Do not commit the generated file to git.
 
- -- Ryan Kuester <rkuester@insymbols.com>  Sun, 24 Feb 2013 17:59:40 +0000
+  The package name above is significant and must be maintained,
+  as several debian tools (e.g., from the devscripts package)
+  read the changelog.
 
-baseconfig-ptux (1.2) unstable; urgency=low
-
-  * Initial Release.
-
- -- Ryan Kuester <rkuester@insymbols.com>  Fri, 25 Nov 2011 18:58:19 +0000
+ -- Generated <an@example.com>  Thu, 01 Jan 1970 00:00:00 +0000
