@@ -2,11 +2,13 @@ Source: baseconfig-ptux
 Section: embedded
 Priority: required
 Maintainer: Ryan Kuester <rkuester@insymbols.com>
-Build-Depends: debhelper (>= 7.0.50~)
+Build-Depends: debhelper (>= 7.0.50~), config-package-dev (>= 5.0)
 Standards-Version: 3.9.4
 
 Package: baseconfig-ptux
 Architecture: all
 Depends: ${misc:Depends}
+Provides: ${diverted-files}
+Conflicts: ${diverted-files}
 Description: Base config files
  A basic, minimal set of configuration files like fstab, hosts, and passwd.
