@@ -1,2 +1,2 @@
-hostname hosts issue.ptux os-release.ptux motd.ptux passwd group shadow etc
+hostname hosts issue.ptux os-release.ptux motd.ptux passwd group shadow mtab etc
 locale etc/default
